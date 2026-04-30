@@ -18,21 +18,12 @@
   <a href="https://odrivenlabs.com">
     <img src="https://img.shields.io/badge/Website-odrivenlabs.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-</p>
-
-<p>
   <a href="https://x.com/OdrivenLabs">
     <img src="https://img.shields.io/badge/X-@OdrivenLabs-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-</p>
-
-<p>
   <a href="https://github.com/OdrivenLabs">
     <img src="https://img.shields.io/badge/GitHub-OdrivenLabs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p>
   <a href="https://youtube.com/@OdrivenLabs">
     <img src="https://img.shields.io/badge/YouTube-OdrivenLabs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
@@ -64,12 +55,10 @@ Our work centers around building practical software that helps operators, resear
 
 
 ## Contact
-For collaboration, research, or security-related inquiries:
 
 - Website: [odrivenlabs.com](https://odrivenlabs.com)
 - X / Twitter: [@OdrivenLabs](https://x.com/OdrivenLabs)
 - YouTube: [@OdrivenLabs](https://youtube.com/@OdrivenLabs)
-
 ---
 
 <div align="center">
