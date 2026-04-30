@@ -1,5 +1,5 @@
 <div align="center">
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/ba8795b5-a037-45ca-bb88-38679a955d2d" />
+<img width="96" alt="OdrivenLabs Logo" src="https://github.com/user-attachments/assets/ba8795b5-a037-45ca-bb88-38679a955d2d" />
 # OdrivenLabs
 
 **Offensive Security Tooling Development**
