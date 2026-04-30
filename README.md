@@ -8,9 +8,9 @@
   <strong>Offensive Security Tooling Development</strong>
 </p>
 
-<p>
-  Building efficient, tactical offensive security software for adversary emulation and red team operations.
-</p>
+<h3>
+  <strong>Building efficient, tactical offensive security software for adversary emulation and red team operations.</strong>
+</h3>
 
 <br />
 
@@ -50,19 +50,22 @@ Our work centers around building practical software that helps operators, resear
 - Infrastructure automation
 ---
 
+## Engineering Principles
 
+- Practical tooling over theory
+- Minimal and reliable design
+- Operator-focused workflows
+- Reproducible research environments
+- Clean documentation and maintainable code
 
 
 
 ## Contact
-
 - Website: [odrivenlabs.com](https://odrivenlabs.com)
 - X / Twitter: [@OdrivenLabs](https://x.com/OdrivenLabs)
 - YouTube: [@OdrivenLabs](https://youtube.com/@OdrivenLabs)
 ---
 
 <div align="center">
-
 <strong>OdrivenLabs — Offensive Security Tooling Development</strong>
-
 </div>
